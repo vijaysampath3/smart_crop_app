@@ -1,0 +1,28 @@
+{
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smart-crop-assistant-2142c",
+          "appId": "1:733120615826:android:26d02590464485da101d4b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smart-crop-assistant-2142c",
+          "configurations": {
+            "android": "1:733120615826:android:26d02590464485da101d4b",
+            "ios": "1:733120615826:ios:c0b0c7b8217e9adf101d4b",
+            "macos": "1:733120615826:ios:c0b0c7b8217e9adf101d4b",
+            "web": "1:733120615826:web:914dfae34aeedb85101d4b",
+            "windows": "1:733120615826:web:902c787c14904a36101d4b"
+          }
+        }
+      }
+    }
+  }
+}
